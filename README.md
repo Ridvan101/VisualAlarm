@@ -8,7 +8,7 @@ After running the application an icon will appear on the taskbar, after which by
 
 ![Visual Alarm](https://github.com/Ridvan101/VisualAlarm/blob/master/Visual_Alarm.png)
 
-Speed slider´s function is to set the flashing speed of the alarm window, and Color chooser palette will enable you to choose the color which will, in the most effective way create effect of alertness to prepare you or to "wake you up" for the duty to come :)
+Speed slider´s function enables you to set the flashing speed of the alarm window, and Color chooser palette will enable you to choose the color which will, in the most effective way create effect of alertness to prepare you or to "wake you up" for the duty to come :)
 
 After everything is set, you can click on Start and the Visual Alarm application is activated and waiting for the right time to remind you on your following task.
 
