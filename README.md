@@ -4,7 +4,7 @@ Visual Alarm is a simple application that is intended to switch your attention f
 
 ## Getting Started
 
-After running the application an icon will appear on the taskbar, after which by right-clicking on it, a menu with two options will popup. Clicking on Setup will activate setup window, on which you can set time on which the alarm will activate. Option On time allows you to enter specific time of activation, and option Countdown will take number of minutes after which the alarm will activate.
+After running the application an icon will appear on the taskbar, after which by right-clicking a menu with two options will popup. Clicking on Setup will activate setup window, on which you can set time for alarm activation. Option On time allows you to enter specific time of activation, and option Countdown will take number of minutes after which the alarm will activate.
 
 ![Visual Alarm](https://github.com/Ridvan101/VisualAlarm/blob/master/Visual_Alarm.png)
 
