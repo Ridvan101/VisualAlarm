@@ -10,7 +10,8 @@ Speed slider´s function is to set the flashing speed of the alarm window, and c
 
 After everything is set, you can click on Start and the Visual Alarm application is activated and waiting for the right time to remind you on your following task.
 
-![Optional Text](../master/VisualAlarm/Visual_Alarm.png)
+![Optional Text](master/VisualAlarm/Visual_Alarm.png)
+![Screenshot](screenshot.png)
 ### Prerequisites
 
 What things you need to install the software and how to install them
