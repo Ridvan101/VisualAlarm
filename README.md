@@ -1,6 +1,6 @@
 # Visual Alarm
 
-Visual Alarm is a simple application that is intended to switch your attention from current activity while on computer, to something else of you have scheduled in the specific moment.   
+Visual Alarm is a simple application that is intended to switch your attention from current activity while on computer to something else of you have scheduled in the specific moment.   
 
 ## Getting Started
 
